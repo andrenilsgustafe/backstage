@@ -5,6 +5,7 @@ The purpose of the documentation strategy is to support the organization with a 
 
 The strategy also takes into account the challenges of collaboration, review and update processes, however this part of the strategy is pending the decision about what tool we finally use for documentation.
 
+- Full 
 	
 `This is code`
 
@@ -40,7 +41,7 @@ in a block
 ```
 This too
 ```
-
+* Test
 
 Markdown converts text to HTML.
 *[HTML]: HyperText Markup Language
