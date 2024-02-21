@@ -7,8 +7,8 @@ The strategy also takes into account the challenges of collaboration, review and
 
 
 The guiding principles of our documentation strategy is:
-  *  All documentation in one central space
-  *  Distributed contribution - Anyone can contribute
+* All documentation in one central space
+- Distributed contribution - Anyone can contribute
   *  One look and feel
   *  Automatic dependencies between content
   *  Revision controlled - responsible team to review
