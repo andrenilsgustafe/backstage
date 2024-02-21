@@ -4,4 +4,5 @@ plugins:
   - techdocs-core
 nav:
   - Getting Started: index.md
-  - Diagrams: diagram.md
+  - Assets:
+    - Diagrams: diagram.md
