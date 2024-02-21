@@ -1,8 +1,21 @@
-site_name: 'example-docs'
-site_description: 'An informative description'
+site_name: 'SAN-LO Networking'
+site_description: 'A platform for all SAN LO networking'
 plugins:
   - techdocs-core
 nav:
   - Getting Started: index.md
+  - Services:
+    - Intro: services/intro.md
+    - Virtual Router services:
+    - Virtual Switch services:
+    - VPN Gateway:
+  - Networks:
+    - Intro: networks/intro.md
+    - Network 2.0:
+    - ALZ:
+    - ELZ:
+    - Network functions:
+      - Firewall design:
+      - WAN edge design:
   - Assets:
     - Diagrams: diagram.md
