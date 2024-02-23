@@ -1,5 +1,5 @@
 #this one is in /docs
-## Introduction - v2
+## Introduction - v2 - en ändring
 
 The purpose of the documentation strategy is to support the organization with a process to improve the overall effectiveness of our documentation. The process should guide the writers to create light, modular, updated, structured, audience tailored and trustworthy information. 
 
